@@ -1,0 +1,18 @@
+{
+  "flights": [
+    {
+      "drone_id": "drone_conflict_1",
+      "waypoints": [
+        { "x": 49, "y": 49, "z": 20, "time": 50 },
+        { "x": 90, "y": 90, "z": 25, "time": 90 }
+      ]
+    },
+    {
+      "drone_id": "drone_conflict_2",
+      "waypoints": [
+        { "x": 100, "y": 100, "z": 30, "time": 100 },
+        { "x": 110, "y": 110, "z": 35, "time": 110 }
+      ]
+    }
+  ]
+}
